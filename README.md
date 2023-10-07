@@ -1,2 +1,1 @@
-# Kerim Kochekov CV
-- https://kerimkochekov.github.io/resume/
+http://kochekov.com/
